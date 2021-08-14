@@ -100,8 +100,14 @@ $ git branch
 $ git remote -v
 ```
 
-### 4. Checkc git status
+### 4. Check git status
 
 ```
 $ git status
+```
+
+### 5. Git modify file
+
+```
+$ git add FILENAME
 ```
