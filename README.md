@@ -99,3 +99,9 @@ $ git branch
 ```
 $ git remote -v
 ```
+
+### 4. Checkc git status
+
+```
+$ git status
+```
