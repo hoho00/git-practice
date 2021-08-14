@@ -93,3 +93,9 @@ $ git pull --all
 ```
 $ git branch
 ```
+
+### 3. Checkc remote repository
+
+```
+$ git remote -v
+```
